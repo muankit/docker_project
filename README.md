@@ -38,7 +38,7 @@ I am using specific version to work with. You can use your preferred versions
 - MySql : mysql:5.7   `docker pull mysql:5.7`
 
 Now, goto the directory where your docker-compose file is and run the following command to start your complete infrastructure
-`docker-compose start`. Now you are ready to go just type you system IP with port number `8082`. As, I have used port `8082` in my project, you can change it according to your system's availability.
+`docker-compose start`. Now you are ready to go, just type your system's IP with port number `8082`. As, I have used port `8082` in my project, you can change it according to your system's availability.
 
 
 
